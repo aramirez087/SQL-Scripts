@@ -1,2 +1,2 @@
-# SQL-Scripts
+# MSSQL-Scripts
 Multiple purpose scripts
